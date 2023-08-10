@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mdshahid_13" target="blank"><img src="https://img.shields.io/twitter/follow/mdshahid_13?logo=twitter&style=for-the-badge" alt="mdshahid_13" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development and C++**
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
 - 📫 How to reach me **shahidraza56631@gmail.com**
 
