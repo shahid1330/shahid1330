@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Shahid Raza</h1>
 <h3 align="center">A tech enthusiast who loves to code and like to solve challenges.</h3>
-<img align="centre" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<center><img align="centre" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahid1330&label=Profile%20views&color=0e75b6&style=flat" alt="shahid1330" /> </p>
 
