@@ -71,9 +71,6 @@
 
 ---
 
-
-<img src="https://raw.githubusercontent.com/shahid1330/shahid1330/output/snake.svg" alt="Snake animation" />
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
