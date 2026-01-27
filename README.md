@@ -19,10 +19,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **CareerPilot: AI**
+- 🔭 I’m currently working on project **CareerPilot: AI**
 - 🌱 I’m currently learning **Machine Learning**
 - 💬 Ask me about **AI / ML**
-- 📫 Reach me at **shahidraza56631@gmail.com**
+- 📫 Reach me at **mdshahidraza1330@gmail.com**
 - ⚡ Fun fact: **TMKOC is my energy booster 😄**
 
 ---
@@ -35,9 +35,6 @@
   </a>
   <a href="https://www.hackerrank.com/profile/shahid13" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
-  </a>
-  <a href="https://codeforces.com/profile/mdshahid13" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/>
   </a>
   <a href="https://leetcode.com/u/shahid13/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
